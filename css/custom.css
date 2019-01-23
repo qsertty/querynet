@@ -8,13 +8,19 @@
     padding-right: 120px;
 } */
 
-
-/* .credit-button {
-    position: absolute;
+.credit-button {
+    /* position: absolute; */
     text-align: center;
-    right: 10px;
-    top: 10px;
-} */
+    margin-top: 10px;
+}
+
+.credit-button button {
+    width: 100%;
+}
+
+.card-img1 {
+    margin-left: -8px;
+}
 
 .mb31 {
     margin: 0;

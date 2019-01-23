@@ -281,7 +281,7 @@ Padding space
 }
 
 .pinside30 {
-    padding: 30px;
+    /* padding: 30px; */
 }
 
 .pinside40 {
@@ -687,7 +687,7 @@ Bullet
 
 .bullet {
     position: relative;
-    padding-left: 25px;
+    /* padding-left: 25px; */
     line-height: 32px;
 }
 
@@ -698,7 +698,7 @@ Bullet
     left: 0;
     font-size: 15px;
     color: #919297;
-    content: "\f18e";
+    /* content: "\f18e"; */
 }
 
 .bullet-arrow-right li:before {
@@ -1860,14 +1860,16 @@ index-1
 }
 
 .widget-title {
-    border-bottom: 1px solid #e8eaec;
+    /* border-bottom: 1px solid #e8eaec;
     margin-bottom: 19px;
-    padding-bottom: 20px;
+    padding-bottom: 20px; */
 }
 
 .widget-search {}
 
-.widget-category {}
+.widget-category {
+    text-align: center;
+}
 
 .widget-category li a,
 .widget-archives li a {
@@ -2801,7 +2803,7 @@ Error-page
     }
     /*--------------- Page Header ( for mobile view  )---------- */
     .page-header {
-        padding: 40px 0px 80px;
+        /* padding: 40px 0px 80px; */
     }
     .page-title {
         font-size: 28px;
